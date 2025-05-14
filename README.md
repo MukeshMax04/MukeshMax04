@@ -89,5 +89,5 @@ Here are a few of my favorite MERN stack projects:
 <p align="left">
   <a href="https://www.linkedin.com/in/mukesh-nm"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mukeshmax0044@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mukesh-nm"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://mukesh-nm.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
